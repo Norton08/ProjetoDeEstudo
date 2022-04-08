@@ -1,0 +1,10 @@
+
+
+
+1)Criar uma classe pessoa com dois atributos, nome e idade
+
+2)Criar um Menu, e dar a opção do usuário escolher entre duas opções
+
+	2.1)Na opção 1, dar a opcao para o usuário criar uma pessoa com nome e idade e guardar essa pessoa dentro de uma lista ou array
+
+	2.2)Na opcao 2, dar a opcao para o usuário ver todas as pessoas cadastradas, quando ele ver mostrar uma listinha com cada pessoa e sua idade cadastrada

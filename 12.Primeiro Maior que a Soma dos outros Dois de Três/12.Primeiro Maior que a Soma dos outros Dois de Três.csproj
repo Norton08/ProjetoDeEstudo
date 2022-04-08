@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_12.Primeiro_Maior_que_a_Soma_dos_outros_Dois_de_Três</RootNamespace>
+  </PropertyGroup>
+
+</Project>
